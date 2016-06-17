@@ -1,0 +1,41 @@
+[
+    {
+        "title": "Call Dave",
+        "class": "bg-success-lighter",
+        "start": "2014-10-07T06:00:00",
+        "end": "2014-10-07T08:00:24",
+        "other": {}
+    },
+    {
+        "title": "Meeting Roundup",
+        "class": "bg-success-lighter",
+        "start": "2014-11-07T06:00:00"
+    },
+    {
+        "title": "Double click Any where",
+        "class": "bg-complete-lighter",
+        "start": "2015-11-23T02:00:00+05:30",
+        "end": "2015-11-23T06:00:00+05:30",
+        "other": {
+            "note": "test"
+        }
+    },
+    {
+        "title": "Drag Me",
+        "class": "bg-success-lighter",
+        "start": "2015-11-24T02:00:00+05:30",
+        "end": "2015-11-24T03:00:00+05:30",
+        "other": {
+            "note": "test"
+        }
+    },
+    {
+        "title": "Click me",
+        "class": "bg-danger-lighter",
+        "start": "2015-11-24T05:00:00+05:30",
+        "end": "2015-11-24T06:00:00+05:30",
+        "other": {
+            "note": "test"
+        }
+    }
+]
